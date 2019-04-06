@@ -1,0 +1,59 @@
+* Laughter
+** self
+*** forward-looking (telescope.wav) [[http://bnc.phon.ox.ac.uk/transcripts-html/K6A.html][BNC K6A]]
+#+BEGIN_EXAMPLE 
+[90] Erm e e they're all individual and mine I think, looking back,
+was erm erm er a light er experience and I mean as I've said, the
+[laugh] the erm er w this telescope they shove up you, er I mean,
+Chris Patton had the same thing.
+#+END_EXAMPLE
+
+first laughter:
+#+BEGIN_EXAMPLE 
+[100] Well I suppose erm well I [laugh] I I I mean I remember er
+ludicrous really, sort of thinking of what I would say at the Tory
+party conference while I was lying in [laughing] that hospital in
+Venice.
+#+END_EXAMPLE
+
+*** backward-looking (hoover.wav) [[http://bnc.phon.ox.ac.uk/transcripts-html/KDE.html][BNC KDE]]
+second laughter:
+#+BEGIN_EXAMPLE  
+Nicola (PS0M4) [543] This is a lovely surprise.
+               [544] Thank you!
+               [545] It's very nice nice of you!
+Linda (PS13U)	[546] Have a nice day!
+Nicola (PS0M4)	[547] [laugh] Doing the hoovering [laugh] 
+#+END_EXAMPLE 
+(first laugh is forward-looking or backward-looking?)
+
+
+
+** partner
+*** forward-looking
+no examples, but can be in theory (projection)
+
+*** backward-looking (bensmum.wav) [[http://bnc.phon.ox.ac.uk/transcripts-html/KDE.html][BNC KDE]]
+#+BEGIN_EXAMPLE  
+Linda [268] Oh no!
+      [269] Well I phoned them up and you know they ... 
+            I only have to say it's Mrs [...] and they say oh!
+      [270] Ben's Mum.
+Nicola (PS0M4)	[laugh]
+#+END_EXAMPLE
+
+
+* Speech laughter
+** self
+*** backward-looking 
+TBD
+
+*** forward-looking [[http://bnc.phon.ox.ac.uk/transcripts-html/HEE.html][BNC]] 
+[91] But er [...] I mean we We've spoken about it before, on the platform, and things like that, that I mean everybody knows the score that if something happens [laughing] if you're [] if you're sleeping you've not got a an excellent chance, put it like that, I mean you er I mean nobody ever expected anything like what happened on piper to to happen any [...] on that scale.
+
+*** during (hoover.wav) [[http://bnc.phon.ox.ac.uk/transcripts-html/K6A.html][BNC K6A]]
+heseltine (PS5BG)	[100] Well I suppose erm well I [laugh] I I I mean I remember er ludicrous really, sort of thinking of what I would say at the Tory party conference while I was lying in [laughing] that hospital in Venice.
+[101] And I actually made some notes [] 
+
+** partner
+no examples, but can be in theory (projection)
