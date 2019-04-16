@@ -30,8 +30,17 @@ Nicola (PS0M4)	[547] [laugh] Doing the hoovering [laugh]
 
 
 ** partner
-*** forward-looking
-no examples, but can be in theory (projection)
+*** forward-looking [[essexlive.wav]] [[http://bnc.phon.ox.ac.uk/transcripts-html/DCH.html][BNC DCH]]
+#+begin_example
+[2] We shall just have to pretend it's not there, there's not, 
+    there's not quite as bad as when I had to speak for Amnesty 
+    on Radio Essex last year and it was live [self&partner laugh], 
+    as every word, every word I spoke was being you know [laugh] being heard by 
+    a lot of people and that's, that was very, that was very intimidating.
+#+end_example
+- again it is hard to tell about the predictability
+- laughable might be '...not quite as bad...'
+
 
 *** backward-looking [[bensmum.wav]] [[http://bnc.phon.ox.ac.uk/transcripts-html/KDE.html][BNC KDE]]
 #+BEGIN_EXAMPLE  
@@ -41,6 +50,21 @@ Linda [268] Oh no!
       [270] Ben's Mum.
 Nicola (PS0M4)	[laugh]
 #+END_EXAMPLE
+
+*** during [[naughtyboy.wav]] [[http://bnc.phon.ox.ac.uk/transcripts-html/JNW.html][BNC JNW]]
+#+begin_example
+Ian (PS4GD)	[372] have to be away and we don't 
+                        hear from you we think, #Oh you naughty boy, yes# .
+John (PS4GC)	[373] #You might get worried, yes.#
+Ian (PS4GD)	[374] We'll take him off the scheme [John laughs] because 
+                        he hasn't replied to ... 
+                        any of our correspondence .
+John (PS4GC)	[375] Yes.
+Ian (PS4GD)	[376] So er
+#+end_example
+- it is debatable whether laughable is the turn [374] or 'Oh you naughty boy'
+- for the latter option: it is notable that John laughs at the
+  relevant space (end of constituent) with a delay after the laughable
 
 
 * Speech laughter
